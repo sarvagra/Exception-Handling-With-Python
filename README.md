@@ -1,4 +1,4 @@
-# Exception-Handling-With-Python <br>
-Learn to handle exceptions in python.
+# Exception-Handling-With-Python 
+Learn to handle exceptions in python. <br>
 -> **USING TRY, CATCH, ELSE AND FINALLY BLOCKS** <br>
 -> **CUSTOM EXCEPTION HANDLING** <br>
