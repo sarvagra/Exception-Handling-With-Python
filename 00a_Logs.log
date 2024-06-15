@@ -1,0 +1,16 @@
+2024-06-15 22:05:51,729 entered into try block
+2024-06-15 22:05:51,729 no error found , entered else block
+2024-06-15 22:05:51,729 this will execute only when when try block gets executed without error
+2024-06-15 22:05:51,729 executing finally block
+2024-06-15 22:05:51,729 finally will execute itself in any situation
+
+2024-06-15 22:08:38,716 entered into try block
+2024-06-15 22:08:38,716 exception found, entered exception
+2024-06-15 22:08:38,851 executing finally block
+2024-06-15 22:08:38,851 finally will execute itself in any situation
+
+2024-06-15 22:11:42,868 entered into try block
+2024-06-15 22:11:42,868 exception found, entered exception
+2024-06-15 22:11:42,868 this is my exception block : [Errno 2] No such file or directory: 'test.txt'
+2024-06-15 22:11:42,868 executing finally block
+2024-06-15 22:11:42,868 finally will execute itself in any situation
