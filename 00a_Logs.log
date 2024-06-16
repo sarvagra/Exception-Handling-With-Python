@@ -14,3 +14,9 @@
 2024-06-15 22:11:42,868 this is my exception block : [Errno 2] No such file or directory: 'test.txt'
 2024-06-15 22:11:42,868 executing finally block
 2024-06-15 22:11:42,868 finally will execute itself in any situation
+
+2024-06-16 09:06:48,077 entered into try block
+2024-06-16 09:06:48,077 exception found, entered exception
+2024-06-16 09:06:48,077 this is my exception block : [Errno 2] No such file or directory: 'test.txt'
+2024-06-16 09:06:48,077 executing finally block
+2024-06-16 09:06:48,077 finally will execute itself in any situation
